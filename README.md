@@ -18,6 +18,9 @@
 | 🔄 **드래그 앤 드롭** | 카드를 드래그하여 우선순위 순서 변경 |
 | 🔁 **실시간 갱신** | 5초마다 포트 상태 자동 업데이트 |
 
+<img width="807" height="481" alt="Screenshot 2026-02-22 at 2 58 47 PM" src="https://github.com/user-attachments/assets/072c3aa6-65cb-4b88-8992-79dc3bae02c6" />
+
+
 ---
 
 ## 설치 방법
